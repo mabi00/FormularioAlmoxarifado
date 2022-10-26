@@ -1,5 +1,4 @@
 <?php
-//$conexao = mysqli_conexaoect('192.168.0.8', 'acesso', '8Cewc69Y1EOHQUJ@', 'loja');
 
 $nomeBanco = "nomeservidor";
 $opcoesConexao = array(
